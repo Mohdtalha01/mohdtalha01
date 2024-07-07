@@ -1,4 +1,4 @@
-### <div align="center">I'm Mohd Talha, a Final-year student passionate about AI, machine learning, and software development.</div>  
+### <div align="center">I'm Mohd Talha, a Final-year student with a passion for AI, machine learning, and software development.</div>  
   
 
 - 💡 Enthusiastic about exploring new technologies and building innovative solutions  
@@ -48,7 +48,7 @@
 
 
 
-### DevOps  
+### Database  
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
@@ -71,7 +71,6 @@
 </a>  
 </div>  
   
- 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mohdtalha01&&style=flat-square" align="center" />
